@@ -1,3 +1,7 @@
 checking commit -a -m option for new file
 insdsn
+<<<<<<< HEAD
 jkdkjkjjijifn
+=======
+hskkmsd
+>>>>>>> 934e9aa5a8e838ad803c8d944a24abaf3264d744
